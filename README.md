@@ -6,7 +6,7 @@ It translates complex semantic analysis into **human-readable insights** and **d
 ---
 
 ##  Live Demo
-🔗 **Deployment Link:**  
+🔗 **Deployment Link: https://scopesense.onrender.com**  
 
 
 ---
